@@ -1,15 +1,15 @@
 # pgen
 
-/--------------------------------------/
-  CREATED BY ARHAM KHAN (VIRUS ARHAM)
-/--------------------------------------/
+/--------------------------------------/ <br>
+  CREATED BY ARHAM KHAN (VIRUS ARHAM) <br>
+/--------------------------------------/ <br>
 
 
-#Create a Secure Password 
-
-/---------------------------------/
-       	   HELP GUIDE
-/---------------------------------/
+#Create a Secure Password <br>
+<br>
+/---------------------------------/<br>
+       	   HELP GUIDE<br>
+/---------------------------------/<br>
 
 To run the Program You need to have python in your OS(Operating System).
 
@@ -25,9 +25,9 @@ How to execute{
 }
 
 
-/---------------------------------/
-                   CONTACT ME 
-/---------------------------------/
- facebook.com/virusarham
- twitter.com/virus_arham
-/---------------------------------/
+/---------------------------------/<br>
+                   CONTACT ME <br>
+/---------------------------------/<br>
+ facebook.com/virusarham <br>
+ twitter.com/virus_arham <br>
+/---------------------------------/<br>
